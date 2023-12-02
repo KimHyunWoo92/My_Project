@@ -1,0 +1,5 @@
+C:/Users/gjaischool/Desktop/Face/Deepfake-Detection-master/Deepfake-Detection-master/test_img/01.png 0
+C:/Users/gjaischool/Desktop/Face/Deepfake-Detection-master/Deepfake-Detection-master/test_img/02.png 0
+C:/Users/gjaischool/Desktop/Face/Deepfake-Detection-master/Deepfake-Detection-master/test_img/03.png 0
+C:/Users/gjaischool/Desktop/Face/Deepfake-Detection-master/Deepfake-Detection-master/test_img/04.png 1
+C:/Users/gjaischool/Desktop/Face/Deepfake-Detection-master/Deepfake-Detection-master/test_img/05.png 1
