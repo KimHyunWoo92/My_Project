@@ -1,1 +1,1 @@
-my_git
+Project repository
