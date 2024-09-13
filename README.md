@@ -1,1 +1,1 @@
-Project repository
+인공지능사관학교 프로젝트 모음
